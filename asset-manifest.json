@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://xetnopnawab.github.io/csb-g1y4zx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/main.2b52a741.chunk.js",
+    "main.js.map": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/main.2b52a741.chunk.js.map",
+    "runtime-main.js": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/runtime-main.0bd3761b.js",
+    "runtime-main.js.map": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/runtime-main.0bd3761b.js.map",
+    "static/js/2.b2cbcda8.chunk.js": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/2.b2cbcda8.chunk.js",
+    "static/js/2.b2cbcda8.chunk.js.map": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/2.b2cbcda8.chunk.js.map",
+    "index.html": "https://xetnopnawab.github.io/csb-g1y4zx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://xetnopnawab.github.io/csb-g1y4zx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b2cbcda8.chunk.js.LICENSE.txt": "https://xetnopnawab.github.io/csb-g1y4zx/static/js/2.b2cbcda8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd3761b.js",
+    "static/js/2.b2cbcda8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2b52a741.chunk.js"
+  ]
+}
